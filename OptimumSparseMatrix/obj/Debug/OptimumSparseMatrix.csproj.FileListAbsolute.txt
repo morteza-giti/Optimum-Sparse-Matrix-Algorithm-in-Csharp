@@ -1,0 +1,5 @@
+C:\Users\Morteza\Desktop\OptimumSparseMatrix\OptimumSparseMatrix\bin\Debug\OptimumSparseMatrix.exe.config
+C:\Users\Morteza\Desktop\OptimumSparseMatrix\OptimumSparseMatrix\bin\Debug\OptimumSparseMatrix.exe
+C:\Users\Morteza\Desktop\OptimumSparseMatrix\OptimumSparseMatrix\bin\Debug\OptimumSparseMatrix.pdb
+C:\Users\Morteza\Desktop\OptimumSparseMatrix\OptimumSparseMatrix\obj\Debug\OptimumSparseMatrix.exe
+C:\Users\Morteza\Desktop\OptimumSparseMatrix\OptimumSparseMatrix\obj\Debug\OptimumSparseMatrix.pdb
